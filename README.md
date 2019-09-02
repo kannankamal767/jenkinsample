@@ -6,6 +6,6 @@
 	  js.executeScript("window.scrollBy(0,1400)");
 	  Thread.sleep(5000);
 	  js.executeScript("window.scrollBy(0,-1400)");
-	  Thread.sleep(5000);
+	  
 	}
 	}
